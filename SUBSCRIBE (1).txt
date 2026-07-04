@@ -7,3 +7,4 @@
 
 
 vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://tcmWVd_Mp6-ae9waPi-p4g@66.23.207.69:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org#🇺🇸 АМЕРИКА
