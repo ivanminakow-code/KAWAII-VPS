@@ -1,0 +1,9 @@
+# profile-title: Kawaii VPN 
+# profile-update-interval: 1
+# Date/Time: 2026-07-04 / 11:20 (Moscow)
+# Количество: 150
+# VPN BY IVANSUPER123
+
+
+
+vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
