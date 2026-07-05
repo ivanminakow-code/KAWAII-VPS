@@ -3,7 +3,10 @@
 # Date/Time: 2026-07-04 / 11:20 (Moscow)
 # Количество: 150
 # VPN BY IVANSUPER123
-
+#hide-settings: 1                     # Скрыть настройки роутинга
+#subscription-autoconnect: 1          # Автоподключение при запуске
+#subscription-autoconnect-type: lowestdelay  # Выбор самого быстрого сервера
+#ping-result: time                    # Показывать пинг в списке серверов
 
 
 
