@@ -9,8 +9,7 @@
 #ping-result: time                    # Показывать пинг в списке серверов
 
 
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.19.51.216:2087?type=ws&security=tls&fp=firefox&sni=vp9.cc.cd#⚡ТЕЛЕГРАММ⚡
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.114:80?host=s5gydl.936.us.ci&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&type=ws#🇨🇦🇫🇮 АВТОВЫБОР |LTE|
+
 vless://7855f776-0d38-0037-ad02-feb304b8ef4a@95.143.188.10:443?flow=&type=xhttp&host=&path=/repository&mode=packet-up&extra={"xmux":{"cMaxReuseTimes": 0,"hKeepAlivePeriod": 0,"hMaxRequestTimes": "600-900","hMaxReusableSecs": "1800-3000","maxConnections": 2}}&security=reality&fp=firefox&sni=git.medrocket.ru&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0#🇸🇪 Швеция 1?serverDescription=VGVsZWdyYW0sIENoYXRHUFQsIEdlbWluaQ==
 vless://7855f776-0d38-002f-ad02-feb304b8ef4a@84.38.187.169:443?flow=&type=xhttp&host=&path=/script&mode=packet-up&extra={"xmux":{"cMaxReuseTimes": 0,"hKeepAlivePeriod": 0,"hMaxRequestTimes": "600-900","hMaxReusableSecs": "1800-3000","maxConnections": 2}}&security=reality&fp=firefox&sni=mc.yandex.tr&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&sid=94c9dbbf07366d96#🇸🇪 Швеция №2?serverDescription=VGVsZWdyYW0sIENoYXRHUFQsIEdlbWluaQ==
 vless://7855f776-0d38-0031-ad02-feb304b8ef4a@185.137.232.194:443?flow=&type=xhttp&host=&path=/assets&mode=packet-up&extra={"xmux":{"cMaxReuseTimes": 0,"hKeepAlivePeriod": 0,"hMaxRequestTimes": "600-900","hMaxReusableSecs": "1800-3000","maxConnections": 2}}&security=reality&fp=firefox&sni=aispir.ru&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&sid=8ba6e72ee60667f6#🇸🇪 Швеция №3?serverDescription=VGVsZWdyYW0sIENoYXRHUFQsIEdlbWluaQ==
