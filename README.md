@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/ivanminakow-code/Bobin-VPN/refs/heads/main/SUB
 
 КОНФИГУРАЦИЯ ДЛЯ HIDDIFY
 
-https://raw.githubusercontent.com/ivanminakow-code/Bobin-VPN/refs/heads/main/Sub-for-HIDDIFY
+
